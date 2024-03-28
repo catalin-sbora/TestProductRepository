@@ -1,1 +1,1 @@
-﻿Console.WriteLine("This is my first console application");
+﻿Console.WriteLine("My new message added to the console");
